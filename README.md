@@ -1,5 +1,5 @@
-# height-sorter
-A simple code for sorting various heights in ascending order.
+# Height-sorter
+A simple code for sorting various heights (of persons or objects) in ascending order.
 
 # How it works
 
